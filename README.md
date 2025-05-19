@@ -1,4 +1,4 @@
-# 1. Explore & Understand AWS
+# EX - 2 Cloud Storage Creation (S3) And Launching An (Ec2) Instance In AWS
 
 ## Algorithm:
 
