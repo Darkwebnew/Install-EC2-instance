@@ -1,6 +1,6 @@
 # EX - 2 Cloud Storage Creation (S3) And Launching An (Ec2) Instance In AWS
 
-## Algorithm:
+## Aim:
 
 Sign up for AWS
 
